@@ -3,13 +3,16 @@ Drawing a virtual Spirograph with Python
 
 ## Tour of the sources
 * spirograph.py
-	* TODO
+  * logic for drawing a Spirograph
 * fraction.py
-  * TODO
+  * representation of a fraction with numerator and denominator
 * test.py
-
+  * contains main function to execute and/or modify examples
+  
 ## Setup
-
+### Requirements
+This project requires the [turtle](https://docs.python.org/3/library/turtle.html) module to draw
+### Running the code
 To use spirograph.py in another file, it mus be imported.
 ```python
 from spirograph import Spirograph
@@ -40,6 +43,6 @@ The file test.py contains a main function and can be executed to see examples.
 
 ## Examples
 <p align="center">
-	<img src="doc/img/spirograph1.png" alt="spirograph1" width="175"> <img src="doc/img/spirograph2.png" alt="spirograph2" width="175" hspace="35">
+	<img src="doc/img/spirograph1.png" alt="spirograph1" width="175" hspace="35"> <img src="doc/img/spirograph2.png" alt="spirograph2" width="175" hspace="35">
 	<img src="doc/img/spirograph3.png" alt="spirograph3" width="175" hspace="35"> <img src="doc/img/spirograph4.png" alt="spirograph4" width="175">
 </p>
