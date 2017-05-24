@@ -11,7 +11,8 @@ Drawing a virtual Spirograph with Python
   
 ## Setup
 ### Requirements
-This project requires the [turtle](https://docs.python.org/3/library/turtle.html) module to draw
+This project requires the [turtle](https://docs.python.org/3/library/turtle.html) module to draw.
+Tested with Python 2.7.6
 ### Running the code
 To use spirograph.py in another file, it mus be imported.
 ```python
@@ -43,6 +44,6 @@ The file test.py contains a main function and can be executed to see examples.
 
 ## Examples
 <p align="center">
-	<img src="doc/img/spirograph1.png" alt="spirograph1" width="175" hspace="35"> <img src="doc/img/spirograph2.png" alt="spirograph2" width="175" hspace="35">
-	<img src="doc/img/spirograph3.png" alt="spirograph3" width="175" hspace="35"> <img src="doc/img/spirograph4.png" alt="spirograph4" width="175">
+	<img src="doc/img/spirograph1.png" alt="spirograph1" width="175" hspace="30"> <img src="doc/img/spirograph2.png" alt="spirograph2" width="175" hspace="30">
+	<img src="doc/img/spirograph3.png" alt="spirograph3" width="175" hspace="30"> <img src="doc/img/spirograph4.png" alt="spirograph4" width="175">
 </p>
