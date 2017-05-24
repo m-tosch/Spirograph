@@ -2,7 +2,7 @@ from spirograph import Spirograph
 
 def main():
 
-    # create a new Spirograph with R = 500
+    # create a new Spirograph with R = 200
     my_spirograph = Spirograph(200)
 
     # draw a curve
