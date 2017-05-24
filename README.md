@@ -39,11 +39,8 @@ To clear the screen, call the “clear” function.
 my_spirograph.clear()
 ```
 
-The file test.py contains a main function and can be executed to see examples.
-
-
 ## Examples
 <p align="center">
-	<img src="doc/img/spirograph1.png" alt="spirograph1" width="175" hspace="30"> <img src="doc/img/spirograph2.png" alt="spirograph2" width="175" hspace="30">
-	<img src="doc/img/spirograph3.png" alt="spirograph3" width="175" hspace="30"> <img src="doc/img/spirograph4.png" alt="spirograph4" width="175">
+	<img src="doc/img/spirograph1.png" alt="spirograph1" width="175" hspace="25"> <img src="doc/img/spirograph2.png" alt="spirograph2" width="175" hspace="25">
+	<img src="doc/img/spirograph3.png" alt="spirograph3" width="175" hspace="25"> <img src="doc/img/spirograph4.png" alt="spirograph4" width="175">
 </p>
